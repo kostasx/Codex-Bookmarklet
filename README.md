@@ -10,6 +10,10 @@ A bookmarklet for beautifying Wordpress Codex
 
 ______
 
+### Original Codex
+
 ![Alt text](before.jpg?raw=true "Before")
+
+### Using Bookmarklet
 
 ![Alt text](after.jpg?raw=true "After")
