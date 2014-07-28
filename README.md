@@ -3,6 +3,8 @@ Codex-Bookmarklet
 
 A bookmarklet for beautifying Wordpress Codex
 
+Moved to [https://github.com/PlethoraThemes/CodexStyler](https://github.com/PlethoraThemes/CodexStyler)
+
 ### Installation: 
 
 1. Create a bookmark
